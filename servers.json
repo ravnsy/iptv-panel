@@ -2,11 +2,11 @@
   {
     "serverId": "srv_001",
     "serverName": "سيرفر الصقر - VIP",
-    "serverUrl": "http://example-dns.com:8080"
+    "serverUrl": "http://marveltv.info:80/get.php?username=36889&password=147835&type=m3u_plus&output=m3u8"
   },
   {
     "serverId": "srv_002",
     "serverName": "سيرفر النخبة - 4K",
-    "serverUrl": "http://another-dns.net:2095"
+    "serverUrl": "http://arox.cc:80/get.php?username=24335738729223&password=24335738729223&type=m3u_plus&output=ts"
   }
 ]
