@@ -1,0 +1,12 @@
+[
+  {
+    "serverId": "srv_001",
+    "serverName": "سيرفر الصقر - VIP",
+    "serverUrl": "http://example-dns.com:8080"
+  },
+  {
+    "serverId": "srv_002",
+    "serverName": "سيرفر النخبة - 4K",
+    "serverUrl": "http://another-dns.net:2095"
+  }
+]
