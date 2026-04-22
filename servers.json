@@ -2,11 +2,11 @@
   {
     "id": "server1",
     "name": "سيرفر 1",
-    "url": "http://uv0wwz.m4rv3l.online:80/get.php?username=86321000461&password=6731909777&type=m3u_plus&output=ts"
+    "url": "http://marveltv.info/get.php?username=36889&password=147835&type=m3u_plus&output=ts"
   },
   {
     "id": "server2",
     "name": "سيرفر 2",
-    "url": "http://bouygues-cdn.r1v.us:8080/get.php?username=d49dc02ec79b&password=k5cfhnm1&type=m3u_plus&output=ts"
+    "url": "http://marveltv.info/get.php?username=36889&password=147835&type=m3u_plus&output=ts"
   }
 ]
