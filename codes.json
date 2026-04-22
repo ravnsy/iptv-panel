@@ -1,0 +1,23 @@
+[
+  {
+    "codePassword": "user123",
+    "duration": "2026-12-31",
+    "isActive": true,
+    "userCount": 1,
+    "serverIdRef": "srv_001"
+  },
+  {
+    "codePassword": "test555",
+    "duration": "2025-06-15",
+    "isActive": true,
+    "userCount": 2,
+    "serverIdRef": "srv_002"
+  },
+  {
+    "codePassword": "expired_code",
+    "duration": "2023-01-01",
+    "isActive": false,
+    "userCount": 0,
+    "serverIdRef": "srv_001"
+  }
+]
