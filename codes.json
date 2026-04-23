@@ -1,14 +1,20 @@
 [
   {
     "code": "12345",
-    "expiry": "2028-12-31",
+    "expiry": "2026-12-31",
     "active": true,
-    "server": "server1"
+    "serverId": "server1"
   },
   {
     "code": "67890",
-    "expiry": "2027-06-30",
+    "expiry": "2026-06-30",
     "active": true,
-    "server": "server2"
+    "serverId": "server2"
+  },
+  {
+    "code": "11111",
+    "expiry": "2025-01-01",
+    "active": false,
+    "serverId": "server1"
   }
 ]
