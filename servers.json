@@ -2,11 +2,11 @@
   {
     "id": "server1",
     "name": "سيرفر 1",
-    "url": "http://marveltv.info/get.php?username=36889&password=147835&type=m3u_plus&output=ts"
+    "url": "http://marveltv.info:80/get.php?username=36889&password=147835&type=m3u_plus&output=ts"
   },
   {
     "id": "server2",
     "name": "سيرفر 2",
-    "url": "http://marveltv.info/get.php?username=36889&password=147835&type=m3u_plus&output=ts"
+    "url": "http://arox.cc:80/get.php?username=24335738729223&password=24335738729223&type=m3u_plus&output=ts"
   }
 ]
