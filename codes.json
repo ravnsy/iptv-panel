@@ -14,7 +14,7 @@
   {
     "code": "11111",
     "expiry": "2025-01-01",
-    "active": false,
+    "active": true,
     "serverId": "server1"
   }
 ]
