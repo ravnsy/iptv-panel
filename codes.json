@@ -1,20 +1,29 @@
 [
   {
     "code": "12345",
-    "expiry": "2026-12-31",
+    "startDate": "2026-01-01",
+    "expiryDate": "2026-12-31",
+    "startTime": "00:00",
+    "expiryTime": "23:59",
     "active": true,
     "serverId": "server1"
   },
   {
     "code": "67890",
-    "expiry": "2026-06-30",
+    "startDate": "2026-01-01",
+    "expiryDate": "2026-06-30",
+    "startTime": "00:00",
+    "expiryTime": "23:59",
     "active": true,
     "serverId": "server2"
   },
   {
     "code": "11111",
-    "expiry": "2025-01-01",
-    "active": true,
+    "startDate": "2024-01-01",
+    "expiryDate": "2025-01-01",
+    "startTime": "00:00",
+    "expiryTime": "23:59",
+    "active": false,
     "serverId": "server1"
   }
 ]
