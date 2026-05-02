@@ -5,7 +5,7 @@
     "expiryDate": "2026-12-31",
     "startTime": "00:00",
     "expiryTime": "23:59",
-    "active": false,
+    "active": true,
     "serverId": "server1"
   },
   {
